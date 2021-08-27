@@ -8,25 +8,25 @@
     i18n: college
   date:
     detail: Class of 2024
-    i18n: integra_date
+    i18n: 
   job:
     detail: Computer Science B.S.
-    i18n: integra_job
+    i18n: 
   icon: fa-plus-square
   present: False
   
 - name:
-    detail: University of California, Irvine
-    i18n: college
+    detail: Kitanan, Irvine
+    i18n: 
   desc:
-    detail: relevant coursework:
-    i18n: college
+    detail: 
+    i18n: 
   date:
-    detail: Class of 2024
-    i18n: integra_date
+    detail: June 2021 - Sept 2021
+    i18n: 
   job:
-    detail: Computer Science B.S.
-    i18n: integra_job
+    detail: Software Engineering Intern
+    i18n: 
   icon: fa-plus-square
   present: True
 

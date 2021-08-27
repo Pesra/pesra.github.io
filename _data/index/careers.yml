@@ -14,18 +14,21 @@
     i18n: integra_job
   icon: fa-plus-square
   present: False
-
+  
 - name:
-    detail: Novomatic Italia s.p.a.
-    i18n: novomatic_b
+    detail: University of California, Irvine
+    i18n: college
   desc:
-    detail: Ho il compito di gestire, analizzare e realizzare soluzioni per supportare i servizi Office Automation erogati dall’Azienda. Il sistema Kace 1000 è stato nel tempo evoluto e grazie ad esso oggi gestiamo anche script automatizzati e configurazioni dei PC client ed installazioni software on demand.
-    i18n: novomatic_b_desc
+    detail: relevant coursework:
+    i18n: college
   date:
-    detail: Gennaio 2017 - Febbraio 2020
-    i18n: novomatic_b_date
+    detail: Class of 2024
+    i18n: integra_date
   job:
-    detail: Coordinatore Office Automation Systems
-    i18n: novomatic_b_job
+    detail: Computer Science B.S.
+    i18n: integra_job
   icon: fa-plus-square
+  present: False
+
+
 

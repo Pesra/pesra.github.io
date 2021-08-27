@@ -28,7 +28,7 @@
     detail: Computer Science B.S.
     i18n: integra_job
   icon: fa-plus-square
-  present: False
+  present: True
 
 
 

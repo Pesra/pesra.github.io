@@ -2,10 +2,12 @@
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
     detail: University of California, Irvine
-    i18n: college
+    i18n: 
   desc:
-    detail: relevant coursework
-    i18n: college
+    detail: relevant coursework - Relevant Coursework Completed: Python Programming and Libraries (ICS-32A, ICS-33), Programming in C/C++ as a Second Language (ICS-45C), Discrete Mathematics (ICS-6B, ICS-6D) 
+Relevant Courses in Progress - Data Structures Implementation and Analysis (ICS-46), Intro to Computer Organization (ICS-51)
+
+    i18n: 
   date:
     detail: Class of 2024
     i18n: 
@@ -13,7 +15,7 @@
     detail: Computer Science B.S.
     i18n: 
   icon: fa-plus-square
-  present: False
+
   
 - name:
     detail: Kitanan, Irvine
@@ -28,7 +30,7 @@
     detail: Software Engineering Intern
     i18n: 
   icon: fa-plus-square
-  present: True
+
 
 
 

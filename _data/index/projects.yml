@@ -1,17 +1,17 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Spotify De-duplicator
+- name: SpotifyU
   gh_user: pesra
-  url: https://github.com/izhou99/music-app
+  url: https://github.com/Pesra/SpotifyU
   img: /static/assets/img/landing/spotify.png
-  desc: Created an application in Java to remove duplicate songs from a playlist, utilized Spotifys API
+  desc: In Python, created a Web App that displays a Spotify users music taste (popularity, dancability, energy, and postiveness)  in a 1 month, 6 month, and all time listening period
 
-- name: Hash Table Database
+- name: Web Crawler
   gh_user: pesra
   url: 
   img: /static/assets/img/landing/hashtag.jpg
-  desc: In C++, built a hash table that hashes a username and password pair and stores them in buckets to greatly increase time efficiency.
+  desc: In Python, built a multithreaded web crawler to retrieve number of unique pages, 50 most common words, page containing the most words, and number of subdomains from 5 UCI seed domains
 
 
 - name: Tic-Tac-Toe Game Tree AI

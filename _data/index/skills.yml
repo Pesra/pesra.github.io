@@ -2,5 +2,5 @@
 
 label: Ability
 id : cs
-aspects: Git, GitHub, Java, Python, Go, C++
-percentage: 50, 60, 70, 80, 30, 65
+aspects: Git, MySQL, Java, Python, Go, C++, Swift
+percentage: 70, 70, 50, 80, 30, 65, 30

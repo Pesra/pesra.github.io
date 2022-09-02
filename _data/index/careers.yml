@@ -29,7 +29,20 @@
     detail: Software Engineering Intern
     i18n: 
   icon: fa-plus-square
-
+  
+- name:
+    detail: UCI Student Center, Irvine
+    i18n: 
+  desc:
+    detail: 
+    i18n: 
+  date:
+    detail: April 2022 - Present
+    i18n: 
+  job:
+    detail: iOS Developer
+    i18n: 
+  icon: fa-plus-square
 
 
 
